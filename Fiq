@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+
+
+<head>
+	<title>Treball d'investigació</title>
+
+
+	<style>
+	table {
+		  font-family: arial, sans-serif;
+		  border-collapse: collapse;
+		  width: 100%;
+		}
+
+		td, th {
+		  border: 1px solid #dddddd;
+		  text-align: left;
+		  padding: 8px;
+		}
+
+		tr:nth-child(even) {
+		  background-color: #dddddd;
+		}
+	</style>
+
+
+</head>
+
+
+
+
+
+<body> 
+	
+	<h5>Artur y Gabriel</h5>
+	<h1 style="border:2px solid Violet;">Treball d'investigació sobre la pressió i la densitat</h1>
+
+
+	<p>
+		La pressió que utilitza la unitat anomenada pascal representat P o pa en problemes (es el utilitzat pel SI), és el resultat d’una força aplicada de manera normal a la superfície d’un objecte per tant la formula termina sent P=F/S. 
+
+		<br>
+
+		La pressió no será la mateixa i pot ser classificada en: De buit, absoluta, dinàmica, estàtica, atmosfèrica, manomètrica, diferencial,aromètrica i d’estancament.
+	</p>
+
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaScLY7Xt2EFwsNeY5Sdewk2YedG1vabJZyw&usqp=CAU" width="300" height="100">
+
+		<br>
+
+	<p>
+		 Pero no sempre utilitzarem el pascal per calcular la pressió, també podem arribar a utilitzar el bar, que es comunament utilitzat per calcular altes pressions, ja que equival a un total de 100000pa la qual es semblant la unitat de mesura de la atm que utilitza la propia atmósfera de la terra com a unitat de mesura.
+	</p>
+
+
+
+
+			<table>
+	  <tr>
+	  	<th> </th>
+	    <th>Pascal</th>
+	    <th>Bar</th>
+	    <th>Atm</th>
+	  </tr>
+	  <tr>
+	  	<th>Pascal</th>
+	    <td>1</td>
+	    <td>0,00001</td>
+	    <td>0,0000987</td>
+	  </tr>
+	  <tr>
+	  	<th>Bar</th>
+	    <td>10000</td>
+	    <td>1</td>
+	    <td>0,987</td>
+	  </tr>
+	  <tr>
+	  	<th>Atm</th>
+	    <td>101325</td>
+	    <td>1,033</td>
+	    <td>1</td>
+	  </tr>
+	  		</table>
+
+
+
+	<p>
+	 <br>
+
+		Alguns dels instruments per mesurar la pressió són:
+
+		<br>
+
+		<strong>-Vacuòmetre</strong>, un dispositiu que es fa servir per mesurar pressions inferior a la pressió atmosfèrica
+
+		<br>
+
+		<strong>-Tub U</strong>, Consisteix en un tub de vidre doblegat en forma d'U, que s'omple parcialment amb un líquid de densitat coneguda. Un dels extrems del tub es connecta a l'objecte o l'espai on es vol mesurar la pressió, mentre que l'altre extrem es deixa lliure. La pressió exercida a l'extrem on hi ha alta pressió provocarà el moviment del líquid dins el tub. Aquest moviment es reflectirà en una diferència de nivell (o altura) marcada com a h, i que depèn de la pressió i de la densitat del líquid al tub.
+
+		<br>
+
+		<strong>-Manòmetre</strong>, és un aparell de mesura de la pressió d'un fluid contingut en un recipient tancat. Es distingeixen dos tipus de manòmetres, segons s'utilitzin per a mesurar la pressió de líquids o de gasos.
+
+	</p>
+
+</body>
+
